@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const clearCompletedBtn = document.getElementById('clear-completed');
   const filterButtons = document.querySelectorAll('.filter');
 
-  const db = new GraphDB('todoList');
+  const db = new GraphDB('todoList-47954');
   const taskCache = new Map();
   let currentFilter = 'all';
 
