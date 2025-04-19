@@ -1,42 +1,42 @@
 # TodoList App
 
-Una aplicación simple de lista de tareas construida con HTML, CSS y JavaScript puro.
+A simple task list application built with HTML, CSS, and vanilla JavaScript.
 
-## Características
+## Features
 
-- Añadir nuevas tareas
-- Marcar tareas como completadas
-- Eliminar tareas
-- Filtrar tareas (todas, activas, completadas)
-- Limpiar todas las tareas completadas
-- Contador de tareas pendientes
-- Persistencia de datos utilizando localStorage
-- Diseño responsivo
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks (all, active, completed)
+- Clear all completed tasks
+- Pending task counter
+- Data persistence using localStorage
+- Responsive design
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- Font Awesome para iconos
-- localStorage para persistencia de datos
+- Font Awesome for icons
+- localStorage for data persistence
 
-## Cómo usar
+## How to Use
 
-1. Clona este repositorio
-2. Abre el archivo `index.html` en tu navegador
-3. ¡Empieza a gestionar tus tareas!
+1. Clone this repository
+2. Open the `index.html` file in your browser
+3. Start managing your tasks!
 
-## Estructura del proyecto
+## Project Structure
 
-- `index.html`: Estructura HTML de la aplicación
-- `styles.css`: Estilos CSS para la interfaz de usuario
-- `script.js`: Lógica de la aplicación en JavaScript
+- `index.html`: HTML structure of the app
+- `styles.css`: CSS styles for the user interface
+- `script.js`: Application logic in JavaScript
 
 ## Demo
 
-Puedes ver una demo en vivo de la aplicación en: [GitHub Pages](https://estebanrfp.github.io/todolist/)
+You can view a live demo of the application at: [GitHub Pages](https://estebanrfp.github.io/todolist/)
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia MIT.
+This project is licensed under the MIT License.
