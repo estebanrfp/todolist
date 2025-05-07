@@ -1,6 +1,6 @@
 # GDB TodoList App
 
-A simple task list application built with HTML, CSS, and vanilla JavaScript.
+A simple task list application built with HTML, CSS, and GraphDB in vanilla JavaScript.
 
 ## Features
 
